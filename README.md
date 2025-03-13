@@ -6,7 +6,7 @@
 [![Release](https://img.shields.io/github/v/release/Nyan-Work/plusls-carpet-addition?include_prereleases&style=flat-square)](https://github.com/Nyan-Work/plusls-carpet-addition/releases)
 [![Github Release Downloads](https://img.shields.io/github/downloads/Nyan-Work/plusls-carpet-addition/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/Nyan-Work/plusls-carpet-addition/releases)
 
-## The project will be maintained in this repository until plusls back.
+## The project will be maintained in this repository until plusls back. 
 
 English | [中文](./README_ZH_CN.md)
 
