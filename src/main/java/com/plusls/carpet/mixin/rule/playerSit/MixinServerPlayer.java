@@ -88,8 +88,8 @@ public abstract class MixinServerPlayer extends Player {
             long nowTime = Util.getMillis();
             PlayerCompat playerCompat = PlayerCompat.of(this);
 
-            // Every sneak interval must not be over 0.2s
-            if (nowTime - this.pca$lastSneakTime > 200) {
+            // Every sneak interval must not be over 0.8s
+            if (nowTime - this.pca$lastSneakTime > 800) {
                 this.pca$sneakTimes = 0;
             } else {
                 // Block input update for 0.2s after player sit
